@@ -8,17 +8,22 @@
 ### Basics
 - Javascript
     - Key Concepts:
+      - Scoping / Closures (call, apply)
       - Asynchronous Programming
         - fetch
         - Promise
         - async / await
       - Prototypical Inheritance / Class syntax
-      - 
     - [Javascript Info](https://javascript.info/)
     - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
     - [ES6 features](https://github.com/lukehoban/es6features)
     - [DOM Manipulation](https://developer.mozilla.org/en-US/docs/Web/API/Document)
-- [Typescript](https://www.typescriptlang.org/docs/home)
+  - [Typescript](https://www.typescriptlang.org/docs/home)
+- CSS
+  - How to center things
+    - Flexbox
+    - CSS Grid
+  - Responsiveness
 
 ### Frameworks
   - [React](http://reactjs.org)
